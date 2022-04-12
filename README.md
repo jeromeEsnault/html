@@ -1,26 +1,31 @@
 # html
-Description générale du projet.
+## Description générale du projet.
+Voici un dépôt sur les balises   HTML avec leur attribut.
+j'ai souhaité creer ce référencement pour une meilleure visibilité du language de balisage ainsi que des possibilités pour ce language
 
-Le statut du projet. 
+## Le statut du projet. 
+Le statut du projet est en ce moment en développent
 
-Évoquez les modifications prévues et l’objectif du développement ou signalez clairement que le développement du projet est terminé.
+## Modifications prévues et l’objectif du développement.
+creation des diferente balise ainsi que des 
 
-Les exigences d' intégration.
 
-Une instruction pour l’installation et l’utilisation.
+## Les exigences d' intégration.
 
-Une liste des technologies utilisées et, le cas échéant, des liens vers d’autres informations sur ces technologies.
+## Une instruction pour l’installation et l’utilisation.
 
-Les projets open source que les développeurs modifient ou complètent par eux-mêmes doivent être complétés par un paragraphe 
-« collaboration souhaitée » dans leur fichier readme.md. 
+## Une liste des technologies utilisées et, le cas échéant, des liens vers d’autres informations sur ces technologies.
 
-Comment contourner un problème ? 
+## Les projets open source collaboratif
+« exemple » 
 
-Comment les développeurs doivent-ils appliquer les modifications ?
+## Comment contourner un problème ? 
 
-Bugs connus et corrections éventuelles apportées.
+## Comment les développeurs doivent-ils appliquer les modifications ?
 
-Section FAQ reprenant toutes les questions posées jusqu’à présent.
+## Bugs connus et corrections éventuelles apportées.
 
-Droits d’auteurs et informations sur la licence.
+## Section FAQ reprenant toutes les questions posées jusqu’à présent.
+
+## Droits d’auteurs et informations sur la licence.
 
