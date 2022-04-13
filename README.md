@@ -7,7 +7,7 @@ j'ai souhaité creer ce référencement pour une meilleure visibilité du langua
 Le statut du projet est en ce moment en développent
 
 ## Modifications prévues et l’objectif du développement.
-creation des diferente balise ainsi que des 
+création des différente balise ainsi que des attribut pour creer un référencement en cas de besoin.
 
 
 ## Les exigences d' intégration.
